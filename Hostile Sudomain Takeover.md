@@ -83,3 +83,4 @@ What happens now?
     
 
 - Set up **monitoring tools** to catch takeovers early.
+![[Pasted image 20250904125523.png]]
